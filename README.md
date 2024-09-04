@@ -22,6 +22,8 @@ Confira a aplicação ao vivo: [Contagem Regressiva]([https://seu-usuario.github
 
 ```bash
 ├── index.html         # Estrutura da página
-├── style.css          # Estilos da aplicação
+
+├── assets
+└── style.css          # Estilos da aplicação
   └── img.bck          # Imagem Bbackgroung
 └── script.js          # Lógica da contagem regressiva
